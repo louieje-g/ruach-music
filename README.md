@@ -17,7 +17,7 @@ Default releases are **Public**, **Not made for kids**, and include a matching R
 | Song | Created | Status | Folder |
 | --- | --- | --- | --- |
 | Holy Spirit, You Are King | 2026-10-10 | Video v011 and thumbnail v001 approved; [published on YouTube](https://youtu.be/mhlUouC-sFk); free MP3 available; local assets cleaned to released MP3 only | [Song package](songs/2026-10-10-holy-spirit-you-are-king/) |
-| Your Will in My Heart | 2026-10-10 | Lyric video v005 explicitly approved; static thumbnail created; published on YouTube; MP3 download available; cleanup pending extra v002 MP3 removal | [Song package](songs/2026-10-10-your-will-in-my-heart/) |
+| Your Will in My Heart | 2026-10-10 | Lyric video v005 explicitly approved; static thumbnail created; published on YouTube; MP3 download available; local assets cleaned to released MP3 only | [Song package](songs/2026-10-10-your-will-in-my-heart/) |
 
 ## Start a song
 

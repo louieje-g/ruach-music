@@ -24,6 +24,6 @@ The user manually removed production assets on 2026-10-12. The released MP3 rema
 
 [Cleanup inventory and verification](metadata/assets-audio-only-cleanup.json). Removed-byte totals describe files absent from the prior inventory; free disk space and Recycle Bin contents were not measured.
 
-Cleanup is **partial**: an additional unreleased artwork revision remains at `assets/audio/releases/your-will-in-my-heart-by-ruach-v002.mp3`. The published download uses the MP3 without `-v002`; audio-only closeout is pending removal of this extra file.
+Cleanup is **complete**: the released MP3 is the only file under `assets/`. Its SHA-256 was rechecked after removal of the extra v002 file.
 
 Historical review limitations and approvals remain in the release metadata and changelog; cleanup does not imply new listening or thumbnail approval.

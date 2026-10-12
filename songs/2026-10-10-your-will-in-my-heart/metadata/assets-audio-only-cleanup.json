@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "status": "partial",
+  "status": "completed",
   "asset_root": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets",
   "retained_file": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\releases\\your-will-in-my-heart-by-ruach.mp3",
   "retained_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
@@ -175,17 +175,15 @@
     }
   ],
   "bytes": 491988836.0,
-  "deleted_files": 41,
+  "deleted_files": 42,
   "reclaimed_bytes": null,
   "reason": "Manual deletion verified on disk; disk space recovery not measured.",
   "performed_by": "user manually",
   "verified_date": "2026-10-12",
-  "removed_bytes": 483529078,
+  "removed_bytes": 491988836,
   "remaining_files": [
-    "assets/audio/releases/your-will-in-my-heart-by-ruach-v002.mp3",
     "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3"
   ],
-  "remaining_unreleased_files": [
-    "assets/audio/releases/your-will-in-my-heart-by-ruach-v002.mp3"
-  ]
+  "remaining_unreleased_files": [],
+  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged."
 }

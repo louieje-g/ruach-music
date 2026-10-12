@@ -50,6 +50,7 @@
     "status": "completed",
     "released_audio": "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3",
     "cleanup_record": "metadata/assets-audio-only-cleanup.json",
-    "note": "Other asset paths are historical production references; video, thumbnail, project and evidence files were manually removed."
+    "note": "Other asset paths are historical production references; video, thumbnail, project and evidence files were manually removed.",
+    "verified_date": "2026-10-12"
   }
 }

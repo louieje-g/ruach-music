@@ -26,3 +26,5 @@
 - 2026-10-12: Latest post-release standard keeps only the exact published MP3 under assets. Retained-file hash verified against GitHub. Deletion blocked by automatic approval review; zero files removed. Existing local assets and links remain valid. See metadata/assets-audio-only-cleanup.json for pending targets.
 
 - 2026-10-12: Verified manual asset deletion: 226 inventory files absent; released MP3 hash unchanged. Cleanup completed. Removed stale active asset links; historical metadata retained. Only released MP3 remains under assets.
+
+- 2026-10-12: Final cleanup recheck passed after manual v002 removal. Exactly one released MP3 remains under assets; SHA-256 matches the recorded published release. Cleanup marked completed.

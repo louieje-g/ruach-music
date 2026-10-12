@@ -920,5 +920,6 @@
   "remaining_files": [
     "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3"
   ],
-  "remaining_unreleased_files": []
+  "remaining_unreleased_files": [],
+  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged."
 }
