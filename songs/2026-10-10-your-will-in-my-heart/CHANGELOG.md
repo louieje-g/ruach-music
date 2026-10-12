@@ -30,3 +30,5 @@
 - 2026-10-12: Updated the saved YouTube description MP3 URL to louieje-g/ruach-music; new direct download returned HTTP 200. Updated exact description and release records; preserved all other live description text.
 
 - 2026-10-12: Latest post-release standard keeps only the exact published MP3 under assets. Retained-file hash verified against GitHub. Deletion blocked by automatic approval review; zero files removed. Existing local assets and links remain valid. See metadata/assets-audio-only-cleanup.json for pending targets.
+
+- 2026-10-12: Verified manual asset deletion: 41 inventory files absent; released MP3 hash unchanged. Cleanup partial. Removed stale active asset links; historical metadata retained. Extra unreleased v002 MP3 remains.

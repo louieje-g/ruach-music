@@ -27,5 +27,11 @@
   "youtube_checks": "Checking... at verification",
   "evidence": "assets/evidence/youtube-published-v001.png",
   "mp3_link_updated": "2026-10-12",
-  "mp3_link_update_record": "metadata/download-link-update-2026-10-12.json"
+  "mp3_link_update_record": "metadata/download-link-update-2026-10-12.json",
+  "local_asset_retention": {
+    "status": "partial",
+    "released_audio": "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3",
+    "cleanup_record": "metadata/assets-audio-only-cleanup.json",
+    "note": "Other asset paths are historical production references; video, thumbnail, project and evidence files were manually removed."
+  }
 }
