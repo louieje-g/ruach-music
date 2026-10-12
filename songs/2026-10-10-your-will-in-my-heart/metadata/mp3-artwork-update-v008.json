@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-12",
+  "revision": "artwork-v008",
+  "previous_file_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
+  "file_sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171",
+  "compressed_audio_payload_sha256": "117f9b83d3eec33893ff2ae90b5aee683fafe8c76ba027317273e467ea065403",
+  "audio_unchanged": true,
+  "other_id3_metadata_unchanged": true,
+  "artwork_sha256": "912cae3d287af9452a0444c3abe6cb4377760635382447533453bda27dad7d99",
+  "artwork_path": "channel/ruach-music/album-cover-v008/ruach-music-album-cover-v008.png",
+  "file": "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3",
+  "bytes": 9468136,
+  "download_url": "https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
+  "hosted_verified": true,
+  "video": "Existing published video unchanged; audio payload remains identical.",
+  "hosted_sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171"
+}

@@ -13,5 +13,13 @@
   "download_head_status": 200,
   "remote_digest_matches_local": true,
   "source": "assets/audio/branded/ruach-holy-spirit-you-are-king-take-01-branded-v001.mp3",
-  "notes": "Release copy unchanged; GitHub asset SHA-256 matches branded MP3. No workspace commit or branch push."
+  "notes": "Release copy unchanged; GitHub asset SHA-256 matches branded MP3. No workspace commit or branch push.",
+  "current_mp3_update": {
+    "record": "mp3-artwork-update-v008.json",
+    "date": "2026-10-12",
+    "sha256": "2c14a825a49ea5492be0107dd406634a6e65e78d37defbb825892925336a1e1e",
+    "bytes": 8775240,
+    "hosted_verified": true,
+    "only_released_mp3_remains": true
+  }
 }

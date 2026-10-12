@@ -185,5 +185,13 @@
     "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3"
   ],
   "remaining_unreleased_files": [],
-  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged."
+  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged.",
+  "current_mp3_update": {
+    "record": "mp3-artwork-update-v008.json",
+    "date": "2026-10-12",
+    "sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171",
+    "bytes": 9468136,
+    "hosted_verified": true,
+    "only_released_mp3_remains": true
+  }
 }

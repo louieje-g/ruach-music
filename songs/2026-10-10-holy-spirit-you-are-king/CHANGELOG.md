@@ -28,3 +28,9 @@
 - 2026-10-12: Verified manual asset deletion: 226 inventory files absent; released MP3 hash unchanged. Cleanup completed. Removed stale active asset links; historical metadata retained. Only released MP3 remains under assets.
 
 - 2026-10-12: Final cleanup recheck passed after manual v002 removal. Exactly one released MP3 remains under assets; SHA-256 matches the recorded published release. Cleanup marked completed.
+
+## 2026-10-12 — Approved cover v008 release update
+
+- Replaced embedded cover in the released MP3 with approved v008; verified unchanged compressed audio payload and other ID3 metadata.
+- Replaced the GitHub release asset at the existing YouTube download URL and downloaded it to verify its complete-file hash.
+- Assets folder still contains only the released MP3. Historical hashes remain in prior records; current verification is in metadata/mp3-artwork-update-v008.json.

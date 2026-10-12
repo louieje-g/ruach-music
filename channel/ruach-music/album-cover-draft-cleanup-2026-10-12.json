@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-12",
+  "status": "blocked",
+  "deleted_files": 0,
+  "reason": "Automatic approval policy rejected recursive deletion before execution; no bypass attempted.",
+  "scope": "Unapproved album-cover-v001 and v003-v007; approved v002 and v008 retained.",
+  "files": [
+    {
+      "path": "channel/ruach-music/album-cover-v001/prompt.txt",
+      "bytes": 1088
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v001/README.md",
+      "bytes": 334
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v001/ruach-music-album-cover-v001.png",
+      "bytes": 2601903
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v003/README.md",
+      "bytes": 561
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v003/ruach-music-album-cover-v003.png",
+      "bytes": 2173805
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v004/README.md",
+      "bytes": 602
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v004/ruach-music-album-cover-v004.png",
+      "bytes": 2189078
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v005/README.md",
+      "bytes": 643
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v005/ruach-music-album-cover-v005.png",
+      "bytes": 2095820
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v006/README.md",
+      "bytes": 722
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v006/ruach-music-album-cover-v006.png",
+      "bytes": 2044627
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v006/ruach-symbol-white-512.png",
+      "bytes": 6504
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v007/prompt.txt",
+      "bytes": 1532
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v007/README.md",
+      "bytes": 498
+    },
+    {
+      "path": "channel/ruach-music/album-cover-v007/ruach-music-album-cover-v007.png",
+      "bytes": 2528945
+    }
+  ],
+  "total_bytes": 13646662
+}

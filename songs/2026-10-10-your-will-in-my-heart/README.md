@@ -20,10 +20,14 @@
 
 ## Local assets after manual cleanup
 
-The user manually removed production assets on 2026-10-12. The released MP3 remains unchanged and matches the previously verified published release hash. Video exports, thumbnails, backgrounds, project sources and screenshots are no longer local assets. Their paths in historical metadata describe production history, not currently available files. Published YouTube videos and GitHub downloads are unchanged.
+The user manually removed production assets on 2026-10-12. The released MP3 was subsequently updated with approved cover v008; its audio payload is unchanged and its current complete-file hash matches the verified GitHub download. Video exports, thumbnails, backgrounds, project sources and screenshots are no longer local assets. Their paths in historical metadata describe production history, not currently available files. Published YouTube videos are unchanged. GitHub downloads now contain the approved v008 cover at the same URLs.
 
 [Cleanup inventory and verification](metadata/assets-audio-only-cleanup.json). Removed-byte totals describe files absent from the prior inventory; free disk space and Recycle Bin contents were not measured.
 
 Cleanup is **complete**: the released MP3 is the only file under `assets/`. Its SHA-256 was rechecked after removal of the extra v002 file.
 
 Historical review limitations and approvals remain in the release metadata and changelog; cleanup does not imply new listening or thumbnail approval.
+
+## Album cover update, 2026-10-12
+
+Both the local signed master and hosted download use approved cover v008. Audio and other ID3 metadata are unchanged. See [verification record](metadata/mp3-artwork-update-v008.json) for previous/current hashes and hosted verification.

@@ -52,5 +52,13 @@
     "cleanup_record": "metadata/assets-audio-only-cleanup.json",
     "note": "Other asset paths are historical production references; video, thumbnail, project and evidence files were manually removed.",
     "verified_date": "2026-10-12"
+  },
+  "current_mp3_update": {
+    "record": "mp3-artwork-update-v008.json",
+    "date": "2026-10-12",
+    "sha256": "2c14a825a49ea5492be0107dd406634a6e65e78d37defbb825892925336a1e1e",
+    "bytes": 8775240,
+    "hosted_verified": true,
+    "only_released_mp3_remains": true
   }
 }

@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-12",
+  "revision": "artwork-v008",
+  "previous_file_sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+  "file_sha256": "2c14a825a49ea5492be0107dd406634a6e65e78d37defbb825892925336a1e1e",
+  "compressed_audio_payload_sha256": "17e278aed019954b11bfe5aef1a71d6dd9c7be9fed9e3e800e1f556b3bf39e15",
+  "audio_unchanged": true,
+  "other_id3_metadata_unchanged": true,
+  "artwork_sha256": "912cae3d287af9452a0444c3abe6cb4377760635382447533453bda27dad7d99",
+  "artwork_path": "channel/ruach-music/album-cover-v008/ruach-music-album-cover-v008.png",
+  "file": "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3",
+  "bytes": 8775240,
+  "download_url": "https://github.com/louieje-g/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3",
+  "hosted_verified": true,
+  "video": "Existing published video unchanged; audio payload remains identical.",
+  "hosted_sha256": "2c14a825a49ea5492be0107dd406634a6e65e78d37defbb825892925336a1e1e"
+}

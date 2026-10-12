@@ -921,5 +921,13 @@
     "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3"
   ],
   "remaining_unreleased_files": [],
-  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged."
+  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged.",
+  "current_mp3_update": {
+    "record": "mp3-artwork-update-v008.json",
+    "date": "2026-10-12",
+    "sha256": "2c14a825a49ea5492be0107dd406634a6e65e78d37defbb825892925336a1e1e",
+    "bytes": 8775240,
+    "hosted_verified": true,
+    "only_released_mp3_remains": true
+  }
 }
