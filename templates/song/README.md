@@ -67,3 +67,11 @@ Follow the [YouTube release standard](../../docs/YOUTUBE-RELEASE-STANDARD.md).
 - Cleanup manifest and reclaimed bytes (only exact released audio remains under assets):
 - Released audio path/hash and release records retained outside assets:
 - Scoped commit, push verification, and any blockers:
+
+## Signed audio master
+
+- Approved cover: channel/ruach-music/album-cover-v002/ruach-music-album-cover-v002.png (repository-relative).
+- Signed MP3 path and SHA-256:
+- Embedded cover SHA-256 and compressed-audio verification:
+- Video renderer input path/hash (must be signed master):
+- Hosted download digest (must match signed master):

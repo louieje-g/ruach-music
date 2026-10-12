@@ -64,3 +64,7 @@ Remove every other file under that song's assets folder, including uploaded MP4s
 Keep lyrics, prompts, release URLs, approvals, hashes and cleanup manifests outside assets. Inventory exact paths and byte totals before deletion; verify the resolved targets stay inside the intended song's assets folder. After deletion, verify that the only remaining file is the released audio and its hash is unchanged. Update active documentation links and identify historical paths as intentionally removed. Do not delete hosted YouTube videos or GitHub Release downloads.
 
 Update the root catalog, song README, changelog and release records, then commit and push approved scoped changes to the configured remote. Exclude unrelated work. Do not rewrite history or force-push. If deletion is blocked, record it as blocked with zero deletions and report the limitation; never claim cleanup completed.
+
+## Approved signing artwork and audio source (2026-10-12)
+
+Use `channel/ruach-music/album-cover-v002/ruach-music-album-cover-v002.png` as the embedded cover when signing audio. This exact user-selected RUACH Music cover supersedes older MP3 artwork instructions. Sign first; use the same signed MP3 for video audio input and the YouTube-description download hosted on GitHub Releases. Verify complete-file hashes between signed master, release copy and hosted asset, and record renderer input and artwork hashes. Follow docs/MP3-BRANDING-STANDARD.md (relative to repository root).
