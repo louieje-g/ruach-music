@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-12",
+  "status": "blocked",
+  "asset_root": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets",
+  "retained_file": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\releases\\your-will-in-my-heart-by-ruach.mp3",
+  "retained_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
+  "files": [
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\artwork\\ruach-living-breath-crimson-1024.png",
+      "bytes": 14418
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\artwork\\thumbnails\\your-will-in-my-heart-thumbnail-v001.png",
+      "bytes": 1969526
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\branded\\ruach-your-will-in-my-heart-v1-branded-v001.mp3",
+      "bytes": 7284727
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\branded\\ruach-your-will-in-my-heart-v1-branded-v002.mp3",
+      "bytes": 8526394
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\branded\\ruach-your-will-in-my-heart-v2-slow-branded-v001.mp3",
+      "bytes": 7218114
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\branded\\ruach-your-will-in-my-heart-v2-slow-branded-v002.mp3",
+      "bytes": 8459782
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\originals\\your-will-in-my-heart-v1-original.mp3",
+      "bytes": 7257457
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\originals\\your-will-in-my-heart-v2-slow-original.mp3",
+      "bytes": 7190964
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\releases\\your-will-in-my-heart-by-ruach-v002.mp3",
+      "bytes": 8459758
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\evidence\\suno-download-limit.jpg",
+      "bytes": 68525
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\evidence\\suno-song-page.jpg",
+      "bytes": 78920
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\evidence\\youtube-download-link-updated.png",
+      "bytes": 98767
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\evidence\\youtube-published-v001.png",
+      "bytes": 89277
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\evidence\\youtube-upload-processing.png",
+      "bytes": 47878
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\update-mp3-artwork.py",
+      "bytes": 2778
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-004.jpg",
+      "bytes": 139204
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-042.jpg",
+      "bytes": 154073
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-055.jpg",
+      "bytes": 138716
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-131.jpg",
+      "bytes": 135571
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-175.jpg",
+      "bytes": 152277
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-231.jpg",
+      "bytes": 148368
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\check-250.jpg",
+      "bytes": 139928
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\contact-sheet.jpg",
+      "bytes": 130399
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\cues.json",
+      "bytes": 65391
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\lyrics.ass",
+      "bytes": 16169
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\lyrics.srt",
+      "bytes": 4174
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\prepare-background.py",
+      "bytes": 482
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\preview-42.jpg",
+      "bytes": 154457
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\README.md",
+      "bytes": 1990
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\render.py",
+      "bytes": 4143
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\verification.json",
+      "bytes": 1337
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\verify.py",
+      "bytes": 3236
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\caption-fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\caption-fonts\\RUACH-Lyric.ttf",
+      "bytes": 97688
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\aurora-meadow-4k-prepared.mp4",
+      "bytes": 27277778
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 2719946
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\ruach-lockup-white.png",
+      "bytes": 10696
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\source-loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\thumbnail-v001\\README.md",
+      "bytes": 1841
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\stems\\your-will-in-my-heart-v2-vocal-analysis-v001.wav",
+      "bytes": 22645814
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\video\\ruach-your-will-in-my-heart-lyric-video-v005-4k.mp4",
+      "bytes": 380975629
+    }
+  ],
+  "bytes": 491988836.0,
+  "deleted_files": 0,
+  "reclaimed_bytes": 0,
+  "reason": "Automatic approval review rejected the deletion command: blocked by policy."
+}

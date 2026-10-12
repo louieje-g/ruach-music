@@ -28,3 +28,5 @@
 - 2026-10-10: At the user's explicit cleanup request, deleted superseded video exports and draft projects v001–v004, rejected channel identity concept v001, and the superseded style proposal. Removed 130 files (166.77 MiB); recorded paths and sizes in metadata/cleanup-2026-10-10.json. Retained approved v005, its complete project, original audio, published thumbnail, and approved Anthem branding. Earlier preservation statements are historical.
 
 - 2026-10-12: Updated the saved YouTube description MP3 URL to louieje-g/ruach-music; new direct download returned HTTP 200. Updated exact description and release records; preserved all other live description text.
+
+- 2026-10-12: Latest post-release standard keeps only the exact published MP3 under assets. Retained-file hash verified against GitHub. Deletion blocked by automatic approval review; zero files removed. Existing local assets and links remain valid. See metadata/assets-audio-only-cleanup.json for pending targets.

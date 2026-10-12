@@ -64,3 +64,5 @@ Mobile readability: main lyrics 97â€“100 px, next-line preview 56 px; 390px
 Cleanup 2026-10-12: user authorized deletion of unapproved media. Superseded v001â€“v010 exports and bulky duplicate assets were removed (1,777,692,820 bytes). Approved v011, v009 background source, original/branded audio, and current thumbnail retained. Historical reports describe assets that may have been removed; see [cleanup manifest](metadata/cleanup-2026-10-12.json).
 
 - 2026-10-12: Added standing post-publication cleanup and scoped commit/push workflow. Local cleanup was blocked by automatic approval review; no files deleted in this closeout. Superseded work and delivery exports excluded from the approved-source commit. See metadata/post-release-cleanup-status.json.
+
+- 2026-10-12: Latest post-release standard keeps only the exact published MP3 under assets. Retained-file hash verified against GitHub. Deletion blocked by automatic approval review; zero files removed. Existing local assets and links remain valid. See metadata/assets-audio-only-cleanup.json for pending targets.

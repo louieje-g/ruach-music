@@ -1,0 +1,917 @@
+{
+  "date": "2026-10-12",
+  "status": "blocked",
+  "asset_root": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets",
+  "retained_file": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\audio\\releases\\holy-spirit-you-are-king-by-ruach.mp3",
+  "retained_sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+  "files": [
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\artwork\\ruach-anthem-avatar-v001.png",
+      "bytes": 1256068
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\artwork\\thumbnails\\holy-spirit-you-are-king-youtube-thumbnail-v001.jpg",
+      "bytes": 464505
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\audio\\branded\\ruach-holy-spirit-you-are-king-take-01-branded-v001.mp3",
+      "bytes": 7765605
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\audio\\originals\\holy-spirit-you-are-king-take-01-original.mp3",
+      "bytes": 6498192
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\evidence\\suno-download-limit.png",
+      "bytes": 38432
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\evidence\\suno-take-02.png",
+      "bytes": 47986
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\evidence\\youtube-download-link-updated.png",
+      "bytes": 105945
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\evidence\\youtube-published-v001.png",
+      "bytes": 43986
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\evidence\\youtube-watch-v001.png",
+      "bytes": 149077
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\brand-mp3-v001.py",
+      "bytes": 3947
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\align.py",
+      "bytes": 2827
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\background.py",
+      "bytes": 4010
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\edge-transcript.json",
+      "bytes": 3368
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\lyrics.ass",
+      "bytes": 15323
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\README.md",
+      "bytes": 3702
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\refine-edges.py",
+      "bytes": 950
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\render.py",
+      "bytes": 4656
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\transcribe.py",
+      "bytes": 1070
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\verification.json",
+      "bytes": 1946
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\verify.py",
+      "bytes": 4045
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v001\\visuals\\loop-verification.json",
+      "bytes": 245
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\background.py",
+      "bytes": 5475
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\lyrics.ass",
+      "bytes": 15323
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\README.md",
+      "bytes": 1396
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\render.py",
+      "bytes": 4613
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\verification.json",
+      "bytes": 1923
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\verify.py",
+      "bytes": 4022
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v002\\visuals\\loop-verification.json",
+      "bytes": 245
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\background.py",
+      "bytes": 5604
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\lyrics.ass",
+      "bytes": 15323
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\README.md",
+      "bytes": 1216
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\render.py",
+      "bytes": 4613
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\verification.json",
+      "bytes": 1923
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\verify.py",
+      "bytes": 4022
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v003\\visuals\\loop-verification.json",
+      "bytes": 245
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\background.py",
+      "bytes": 5610
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\lyrics.ass",
+      "bytes": 15323
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\README.md",
+      "bytes": 1169
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\render.py",
+      "bytes": 4613
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\verification.json",
+      "bytes": 1923
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\verify.py",
+      "bytes": 4022
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\visuals\\loop-verification.json",
+      "bytes": 245
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v004\\__pycache__\\background.cpython-312.pyc",
+      "bytes": 13375
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\README.md",
+      "bytes": 1580
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\render.py",
+      "bytes": 4527
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\verification.json",
+      "bytes": 2200
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\verify.py",
+      "bytes": 4557
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\visuals\\loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\alignment-review.json",
+      "bytes": 1069
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\background-log.txt",
+      "bytes": 1485
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\background.py",
+      "bytes": 4115
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\check-motion.py",
+      "bytes": 1680
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\README.md",
+      "bytes": 1816
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\render.py",
+      "bytes": 4529
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\transcript.json",
+      "bytes": 47726
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\verification.json",
+      "bytes": 12577
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\verify-log.txt",
+      "bytes": 12579
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\verify.py",
+      "bytes": 4523
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v006\\visuals\\loop-verification.json",
+      "bytes": 9874
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\background-log.txt",
+      "bytes": 1027
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\background.py",
+      "bytes": 4040
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\check-motion.py",
+      "bytes": 1680
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\README.md",
+      "bytes": 1145
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\render.py",
+      "bytes": 4529
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\verification.json",
+      "bytes": 7826
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\verify-log.txt",
+      "bytes": 7828
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\verify.py",
+      "bytes": 4523
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v007\\visuals\\loop-verification.json",
+      "bytes": 5483
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\background.py",
+      "bytes": 3825
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\check-motion.py",
+      "bytes": 1680
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\clean-plate-prompt.txt",
+      "bytes": 978
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\README.md",
+      "bytes": 1608
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\render.py",
+      "bytes": 4529
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\verification.json",
+      "bytes": 11552
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\verify-log.txt",
+      "bytes": 11554
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\verify.py",
+      "bytes": 4591
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v008\\visuals\\loop-verification.json",
+      "bytes": 8945
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\background.py",
+      "bytes": 5448
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\catalog-comparison.jpg",
+      "bytes": 56223
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-004.jpg",
+      "bytes": 100334
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-018.jpg",
+      "bytes": 103082
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-035.jpg",
+      "bytes": 102649
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-050.jpg",
+      "bytes": 99186
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-054.jpg",
+      "bytes": 103117
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-077.jpg",
+      "bytes": 94733
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-121.jpg",
+      "bytes": 96723
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-145.jpg",
+      "bytes": 98823
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-190.jpg",
+      "bytes": 101073
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-214.jpg",
+      "bytes": 94588
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-225.jpg",
+      "bytes": 92509
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\check-motion.py",
+      "bytes": 2512
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\clean-plate-prompt.txt",
+      "bytes": 978
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\contact-sheet.jpg",
+      "bytes": 327630
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\firefly-flight-comparison.jpg",
+      "bytes": 149581
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\firefly-motion-preview.mp4",
+      "bytes": 1549330
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-390-018.png",
+      "bytes": 128489
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-390-035.png",
+      "bytes": 128164
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-390-050.png",
+      "bytes": 126950
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-390-077.png",
+      "bytes": 126112
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-640-018.png",
+      "bytes": 288373
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-640-035.png",
+      "bytes": 287227
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-640-050.png",
+      "bytes": 283798
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\mobile-640-077.png",
+      "bytes": 282204
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\README.md",
+      "bytes": 1749
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\render.py",
+      "bytes": 4529
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\verification.json",
+      "bytes": 14530
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\verify-log.txt",
+      "bytes": 14532
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\verify.py",
+      "bytes": 4591
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 132236422
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\clean-meadow.png",
+      "bytes": 2037279
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-00.jpg",
+      "bytes": 485344
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-05.jpg",
+      "bytes": 485448
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-10.jpg",
+      "bytes": 485261
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-15.jpg",
+      "bytes": 485321
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-20.jpg",
+      "bytes": 485343
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\flight-25.jpg",
+      "bytes": 485376
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\loop-verification.json",
+      "bytes": 11612
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v009\\visuals\\original-reference.png",
+      "bytes": 2275009
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\README.md",
+      "bytes": 717
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\render.py",
+      "bytes": 4579
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\verification.json",
+      "bytes": 14543
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\verify-log.txt",
+      "bytes": 14545
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\verify.py",
+      "bytes": 4605
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v010\\visuals\\loop-verification.json",
+      "bytes": 11612
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\catalog-comparison.jpg",
+      "bytes": 55788
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-004.jpg",
+      "bytes": 99543
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-018.jpg",
+      "bytes": 102397
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-035.jpg",
+      "bytes": 101913
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-050.jpg",
+      "bytes": 98428
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-054.jpg",
+      "bytes": 102308
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-077.jpg",
+      "bytes": 93843
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-121.jpg",
+      "bytes": 96019
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-145.jpg",
+      "bytes": 98243
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-190.jpg",
+      "bytes": 100549
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-214.jpg",
+      "bytes": 93802
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\check-225.jpg",
+      "bytes": 91748
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\contact-sheet.jpg",
+      "bytes": 323064
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\cues.json",
+      "bytes": 8724
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\lyrics.ass",
+      "bytes": 15417
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\lyrics.srt",
+      "bytes": 3899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\Manrope-OFL.txt",
+      "bytes": 4479
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-390-018.png",
+      "bytes": 125905
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-390-035.png",
+      "bytes": 125841
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-390-050.png",
+      "bytes": 124450
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-390-077.png",
+      "bytes": 123384
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-640-018.png",
+      "bytes": 283730
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-640-035.png",
+      "bytes": 282438
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-640-050.png",
+      "bytes": 278664
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\mobile-640-077.png",
+      "bytes": 275909
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\preview-50.jpg",
+      "bytes": 99301
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\README.md",
+      "bytes": 1191
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\render.py",
+      "bytes": 4590
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\typography-check.json",
+      "bytes": 281
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\verification.json",
+      "bytes": 14582
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\verify-log.txt",
+      "bytes": 14584
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\verify.py",
+      "bytes": 4641
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 132236422
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v011\\visuals\\loop-verification.json",
+      "bytes": 11612
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\approved-video-reference.jpg",
+      "bytes": 99301
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\export.py",
+      "bytes": 899
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\generated-source.png",
+      "bytes": 1970454
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\preview-320.jpg",
+      "bytes": 27527
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\preview-390.jpg",
+      "bytes": 38911
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\preview-640.jpg",
+      "bytes": 86802
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\prompt.txt",
+      "bytes": 1134
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\README.md",
+      "bytes": 847
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\thumbnail-v001\\verification.json",
+      "bytes": 613
+    },
+    {
+      "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\video\\ruach-holy-spirit-you-are-king-lyric-video-v011-1080p.mp4",
+      "bytes": 108187533
+    }
+  ],
+  "bytes": 407740361.0,
+  "deleted_files": 0,
+  "reclaimed_bytes": 0,
+  "reason": "Automatic approval review rejected the deletion command: blocked by policy."
+}

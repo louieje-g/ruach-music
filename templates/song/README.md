@@ -64,6 +64,6 @@ Follow the [YouTube release standard](../../docs/YOUTUBE-RELEASE-STANDARD.md).
 ## Post-publication closeout
 
 - Verified YouTube URL/ID:
-- Cleanup manifest and reclaimed bytes (uploaded delivery MP4 and unapproved outputs removed; reusable background/branding retained):
-- Approved audio/thumbnail and release records retained:
+- Cleanup manifest and reclaimed bytes (only exact released audio remains under assets):
+- Released audio path/hash and release records retained outside assets:
 - Scoped commit, push verification, and any blockers:

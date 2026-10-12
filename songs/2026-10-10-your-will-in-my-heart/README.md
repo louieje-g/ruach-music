@@ -71,3 +71,5 @@ On 2026-10-10, the user explicitly approved `ruach-your-will-in-my-heart-lyric-v
 - AI music disclosed; language English; category Music; not specifically made for children; no paid promotion.
 
 - [Free MP3 download](https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3) — hosted GitHub Release asset; link included in video description. Available to everyone, including subscribers.
+
+- 2026-10-12: Latest post-release standard keeps only the exact published MP3 under assets. Retained-file hash verified against GitHub. Deletion blocked by automatic approval review; zero files removed. Existing local assets and links remain valid. See metadata/assets-audio-only-cleanup.json for pending targets.
