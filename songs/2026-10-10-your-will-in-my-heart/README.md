@@ -70,4 +70,4 @@ On 2026-10-10, the user explicitly approved `ruach-your-will-in-my-heart-lyric-v
 - Visibility: Public as requested; Not made for kids. Published on 2026-10-10; verified Public in YouTube Studio.
 - AI music disclosed; language English; category Music; not specifically made for children; no paid promotion.
 
-- [Free MP3 download](https://github.com/Ruach-Systems/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3) — hosted GitHub Release asset; link included in video description. Available to everyone, including subscribers.
+- [Free MP3 download](https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3) — hosted GitHub Release asset; link included in video description. Available to everyone, including subscribers.

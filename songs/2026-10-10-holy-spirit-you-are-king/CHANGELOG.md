@@ -20,3 +20,5 @@
 - 2026-10-12: User approved thumbnail v001 and explicitly requested upload. Published approved video v011 with that thumbnail as Public on the verified RUACH Music channel. YouTube checks passed; live title, full lyrics, MP3 link and playback verified. Created public GitHub Release holy-spirit-you-are-king-v001; MP3 digest matches unchanged branded audio. Saved exact upload copy, settings, approvals and evidence.
 
 - 2026-10-12: Added standing post-publication cleanup and scoped commit/push workflow. Local cleanup was blocked by automatic approval review; no files deleted in this closeout. Superseded work and delivery exports excluded from the approved-source commit. See metadata/post-release-cleanup-status.json.
+
+- 2026-10-12: Updated the saved YouTube description MP3 URL to louieje-g/ruach-music; new direct download returned HTTP 200. Updated exact description and release records; preserved all other live description text.

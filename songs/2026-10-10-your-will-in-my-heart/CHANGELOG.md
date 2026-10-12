@@ -26,3 +26,5 @@
 - 2026-10-10: Upload completed and video UTby4EziS00 published Public with Not made for kids selected. Verified title, complete description with MP3 link, custom thumbnail, and 4:17 runtime in Studio. SD/HD processing complete; 4K processing and platform checks still running at verification. Saved publication screenshot and release metadata.
 
 - 2026-10-10: At the user's explicit cleanup request, deleted superseded video exports and draft projects v001–v004, rejected channel identity concept v001, and the superseded style proposal. Removed 130 files (166.77 MiB); recorded paths and sizes in metadata/cleanup-2026-10-10.json. Retained approved v005, its complete project, original audio, published thumbnail, and approved Anthem branding. Earlier preservation statements are historical.
+
+- 2026-10-12: Updated the saved YouTube description MP3 URL to louieje-g/ruach-music; new direct download returned HTTP 200. Updated exact description and release records; preserved all other live description text.

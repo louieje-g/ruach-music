@@ -42,5 +42,6 @@
       "url": "https://github.com/louieje-g/ruach-music/releases/tag/holy-spirit-you-are-king-v001"
     }
   ],
-  "notes": "main history and both tags pushed; release asset SHA-256 digests match. Old repository retained for existing YouTube links; historical submitted descriptions unchanged."
+  "notes": "main history and both tags pushed; release asset SHA-256 digests match. Both YouTube MP3 description links subsequently updated to the new repository on 2026-10-12. Old repository retained.",
+  "youtube_download_links_updated": "2026-10-12"
 }

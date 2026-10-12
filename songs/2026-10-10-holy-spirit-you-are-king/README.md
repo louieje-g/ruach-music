@@ -49,7 +49,7 @@ Follow the [approved lyric-video standard](../../docs/LYRIC-VIDEO-STANDARD.md).
 - Approved deliverables: video v011, Take 1 branded audio, thumbnail v001.
 - Settings: Public; Not made for kids; Music; English; AI used; no paid promotion; Standard YouTube License; no premiere.
 - [Exact title](metadata/youtube-title.txt) and [full description](metadata/youtube-description.txt), including full lyrics, public MP3 download and production credits.
-- [Free MP3 download](https://github.com/Ruach-Systems/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3) from [GitHub Release v001](https://github.com/Ruach-Systems/ruach-music/releases/tag/holy-spirit-you-are-king-v001). HTTP 200; remote digest matches unchanged branded MP3.
+- [Free MP3 download](https://github.com/louieje-g/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3) from [GitHub Release v001](https://github.com/louieje-g/ruach-music/releases/tag/holy-spirit-you-are-king-v001). HTTP 200; remote digest matches unchanged branded MP3.
 - YouTube copyright and Community Guidelines checks completed with no issues before publication. Live watch page and playback verified (0:08 / 3:52); this is not a full listening review.
 - [Release record](metadata/youtube-release-v001.json), [MP3 release verification](metadata/github-release-v001.json), [publication evidence](assets/evidence/youtube-published-v001.png).
 

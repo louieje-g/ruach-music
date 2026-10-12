@@ -42,6 +42,8 @@
     "assets/evidence/youtube-published-v001.png",
     "assets/evidence/youtube-watch-v001.png"
   ],
-  "mp3_release": "https://github.com/Ruach-Systems/ruach-music/releases/tag/holy-spirit-you-are-king-v001",
-  "mp3_download": "https://github.com/Ruach-Systems/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3"
+  "mp3_release": "https://github.com/louieje-g/ruach-music/releases/tag/holy-spirit-you-are-king-v001",
+  "mp3_download": "https://github.com/louieje-g/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3",
+  "mp3_link_updated": "2026-10-12",
+  "mp3_link_update_record": "metadata/download-link-update-2026-10-12.json"
 }

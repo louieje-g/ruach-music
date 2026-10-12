@@ -33,4 +33,4 @@ Read [organization and production standards](docs/STANDARDS.md) and [agent instr
 
 After verified publication, follow the [post-publication cleanup and push standard](docs/YOUTUBE-RELEASE-STANDARD.md#post-publication-cleanup-and-push): remove disposable uploaded exports and unapproved work, retain reusable backgrounds/branding and the release archive, then commit and push approved changes.
 
-Repository moved to `louieje-g/ruach-music` on 2026-10-12. Both public MP3 releases were copied with matching SHA-256 digests. Existing YouTube descriptions still use the working previous-repository links. See [migration record](docs/REPOSITORY-MIGRATION-2026-10-12.json).
+Repository moved to `louieje-g/ruach-music` on 2026-10-12. Both public MP3 releases were copied with matching SHA-256 digests. Both YouTube descriptions now use MP3 downloads from the new repository (updated 2026-10-12). See [migration record](docs/REPOSITORY-MIGRATION-2026-10-12.json).

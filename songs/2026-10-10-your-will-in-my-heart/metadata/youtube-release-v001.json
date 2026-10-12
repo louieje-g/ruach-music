@@ -22,8 +22,10 @@
   "paid_promotion": false,
   "language": "English",
   "category": "Music",
-  "mp3_download_url": "https://github.com/Ruach-Systems/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
+  "mp3_download_url": "https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
   "mp3_download_access": "public; not subscriber-gated",
   "youtube_checks": "Checking... at verification",
-  "evidence": "assets/evidence/youtube-published-v001.png"
+  "evidence": "assets/evidence/youtube-published-v001.png",
+  "mp3_link_updated": "2026-10-12",
+  "mp3_link_update_record": "metadata/download-link-update-2026-10-12.json"
 }

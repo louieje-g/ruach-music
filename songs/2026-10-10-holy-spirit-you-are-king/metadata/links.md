@@ -16,7 +16,7 @@
 
 ## Free MP3
 
-- [GitHub Release v001](https://github.com/Ruach-Systems/ruach-music/releases/tag/holy-spirit-you-are-king-v001)
-- [Direct MP3 download](https://github.com/Ruach-Systems/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3)
+- [GitHub Release v001](https://github.com/louieje-g/ruach-music/releases/tag/holy-spirit-you-are-king-v001)
+- [Direct MP3 download](https://github.com/louieje-g/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3)
 - HTTP 200 verified; GitHub digest matches local branded MP3.
 - Access: public; no subscriber gate.

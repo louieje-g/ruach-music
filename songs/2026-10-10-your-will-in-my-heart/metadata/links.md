@@ -19,5 +19,5 @@
 ## YouTube and download release
 
 - [Your Will in My Heart by RUACH](https://youtu.be/UTby4EziS00) — published Public on 2026-10-10; Not made for kids. SD/HD ready; 4K processing and checks still running at verification.
-- [MP3 download](https://github.com/Ruach-Systems/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3) — uploaded and verified through GitHub release metadata.
-- [Download release page](https://github.com/Ruach-Systems/ruach-music/releases/tag/your-will-in-my-heart-v001)
+- [MP3 download](https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3) — uploaded and verified through GitHub release metadata.
+- [Download release page](https://github.com/louieje-g/ruach-music/releases/tag/your-will-in-my-heart-v001)

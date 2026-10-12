@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-12",
+  "old_download_url": "https://github.com/Ruach-Systems/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
+  "new_download_url": "https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
+  "youtube_edit": "Saved in YouTube Studio; Save disabled after completion",
+  "download_http_status": 200,
+  "scope": "Only MP3 URL changed; other live description text preserved",
+  "evidence": "assets/evidence/youtube-download-link-updated.png"
+}
