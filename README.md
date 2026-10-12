@@ -34,3 +34,7 @@ Read [organization and production standards](docs/STANDARDS.md) and [agent instr
 After verified publication, follow the [post-publication cleanup and push standard](docs/YOUTUBE-RELEASE-STANDARD.md#post-publication-cleanup-and-push): keep only the exact released audio file inside each approved, successfully uploaded song's assets folder, keep release records outside assets, then commit and push approved changes.
 
 Repository moved to `louieje-g/ruach-music` on 2026-10-12. Both public MP3 releases were copied with matching SHA-256 digests. Both YouTube descriptions now use MP3 downloads from the new repository (updated 2026-10-12). See [migration record](docs/REPOSITORY-MIGRATION-2026-10-12.json).
+
+## Approved audio signing cover
+
+Use [RUACH Music album cover v008](channel/ruach-music/album-cover-v008/README.md), approved 2026-10-12, for embedded MP3 front-cover artwork. This replaces v002 as the signing default. Sign first and use the same signed MP3 for video audio and the public download; follow the [MP3 branding standard](docs/MP3-BRANDING-STANDARD.md).

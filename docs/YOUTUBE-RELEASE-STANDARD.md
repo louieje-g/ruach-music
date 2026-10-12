@@ -30,7 +30,7 @@ These defaults are standing instructions for future approved releases; no repeat
 
 The user has authorized uploads of approved songs to this channel as a standing production step. Record the approved audio and lyric-video revisions and approval date/scope. Respect any later hold, requested changes, or approval limited to visual design. Do not ask for the same generic upload authorization again.
 
-1. Sign the approved recording first using the MP3 branding standard and approved RUACH Music cover v002. Use that signed MP3 as the video audio input and the byte-identical public MP3 download. Record and verify source/download hashes. Confirm the approved recording and release video match. Follow the 1080p [lyric-video standard](LYRIC-VIDEO-STANDARD.md).
+1. Sign the approved recording first using the MP3 branding standard and approved RUACH Music cover v008. Use that signed MP3 as the video audio input and the byte-identical public MP3 download. Record and verify source/download hashes. Confirm the approved recording and release video match. Follow the 1080p [lyric-video standard](LYRIC-VIDEO-STANDARD.md).
 2. Create the matching static thumbnail after lyric-video approval; retain its source and review status.
 3. Prepare and verify the public MP3 download below. Save the exact upload title and description in `metadata/youtube-title.txt` and `metadata/youtube-description.txt`. Put the download link near the top and include full lyrics matching the actual approved recording, preserving repeated sections; omit production instructions and timing tags. Never silently truncate lyrics. If a platform limit prevents the full description, resolve the limitation before upload completion is claimed.
 4. Upload to the channel above, preferably through the signed-in in-app browser. Check the channel identity before uploading and use the matching thumbnail.
@@ -50,7 +50,7 @@ Descriptions must include the full song lyrics. A short song introduction, accur
 
 ## Free MP3 download
 
-Follow the [MP3 metadata branding standard](MP3-BRANDING-STANDARD.md), including the approved RUACH Music album cover v002, full lyrics, RUACH artist credit, and unchanged-audio verification.
+Follow the [MP3 metadata branding standard](MP3-BRANDING-STANDARD.md), including the approved RUACH Music album cover v008, full lyrics, RUACH artist credit, and unchanged-audio verification.
 Offer the approved recording as a free MP3 download with every approved YouTube release. Host it as an asset on a versioned GitHub Release in `louieje-g/ruach-music`, following the first release's approach. This link is public and available to everyone, including subscribers; do not describe it as subscriber-gated or dependent on YouTube Premium.
 
 Keep the release copy in `assets/audio/releases/`, named `song-slug-by-ruach.mp3`. Use the clean song title and RUACH artist metadata, with the approved brand artwork. Preserve the original recording and earlier versions. Avoid re-encoding an existing suitable MP3 merely to change tags.

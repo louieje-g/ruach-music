@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-12",
+  "statement": "Looks good. I approve this version. Please use it as the album cover when signing audio files and update the docs accordingly.",
+  "sha256": "912cae3d287af9452a0444c3abe6cb4377760635382447533453bda27dad7d99",
+  "source_filename": "exec-0b208f7e-dce7-4494-8362-94cb0c72babf.png",
+  "scope": "Default embedded cover for signed audio; the same signed MP3 feeds video and YouTube download",
+  "supersedes": "album-cover-v002"
+}
