@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-12",
+  "previous_repository": "Ruach-Systems/ruach-music",
+  "repository": "louieje-g/ruach-music",
+  "releases": [
+    {
+      "assets": [
+        {
+          "apiUrl": "https://api.github.com/repos/louieje-g/ruach-music/releases/assets/632884739",
+          "contentType": "audio/mpeg",
+          "createdAt": "2026-10-12T06:23:08Z",
+          "digest": "sha256:b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
+          "downloadCount": 0,
+          "id": "RA_kwDOVFmWBc4luQ4D",
+          "label": "",
+          "name": "your-will-in-my-heart-by-ruach.mp3",
+          "size": 7218114,
+          "state": "uploaded",
+          "updatedAt": "2026-10-12T06:23:11Z",
+          "url": "https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3"
+        }
+      ],
+      "url": "https://github.com/louieje-g/ruach-music/releases/tag/your-will-in-my-heart-v001"
+    },
+    {
+      "assets": [
+        {
+          "apiUrl": "https://api.github.com/repos/louieje-g/ruach-music/releases/assets/632885160",
+          "contentType": "audio/mpeg",
+          "createdAt": "2026-10-12T06:23:20Z",
+          "digest": "sha256:69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+          "downloadCount": 0,
+          "id": "RA_kwDOVFmWBc4luQ-o",
+          "label": "",
+          "name": "holy-spirit-you-are-king-by-ruach.mp3",
+          "size": 7765605,
+          "state": "uploaded",
+          "updatedAt": "2026-10-12T06:23:23Z",
+          "url": "https://github.com/louieje-g/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3"
+        }
+      ],
+      "url": "https://github.com/louieje-g/ruach-music/releases/tag/holy-spirit-you-are-king-v001"
+    }
+  ],
+  "notes": "main history and both tags pushed; release asset SHA-256 digests match. Old repository retained for existing YouTube links; historical submitted descriptions unchanged."
+}

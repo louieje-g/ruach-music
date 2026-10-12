@@ -4,9 +4,9 @@ The home for all music created with the user. Every song has one permanent folde
 
 ## YouTube channel
 
-Channel logo: [approved RUACH Anthem identity — Breath into Song](channel/ruach-anthem/identity-approved-v001/README.md).
+Channel logo: [approved RUACH Anthem identity â€” Breath into Song](channel/ruach-anthem/identity-approved-v001/README.md).
 
-[RUACH Anthem — @RuachAnthem](https://www.youtube.com/@RuachAnthem) is the official destination for approved songs. Upload approved songs with their lyric videos and matching static thumbnails. Video titles must use **[SONG TITLE] by RUACH** (for example, **Your Will in My Heart by RUACH**), and descriptions must include the full lyrics.
+[RUACH Anthem â€” @RuachAnthem](https://www.youtube.com/@RuachAnthem) is the official destination for approved songs. Upload approved songs with their lyric videos and matching static thumbnails. Video titles must use **[SONG TITLE] by RUACH** (for example, **Your Will in My Heart by RUACH**), and descriptions must include the full lyrics.
 
 See the [YouTube release standard](docs/YOUTUBE-RELEASE-STANDARD.md) for the approval-to-upload workflow and [channel assets](channel/ruach-anthem/).
 
@@ -27,8 +27,10 @@ Default releases are **Public**, **Not made for kids**, and include a matching R
 4. Record what was actually generated, downloaded, reviewed, approved, and released.
 5. Add the song to this catalog and update its changelog as work progresses.
 
-Read [organization and production standards](docs/STANDARDS.md) and [agent instructions](AGENTS.md) before working here. GitHub repository: [Ruach-Systems/ruach-music](https://github.com/Ruach-Systems/ruach-music). Uploading this archive does not mark any song as an approved master or distributed release.
+Read [organization and production standards](docs/STANDARDS.md) and [agent instructions](AGENTS.md) before working here. GitHub repository: [louieje-g/ruach-music](https://github.com/louieje-g/ruach-music). Uploading this archive does not mark any song as an approved master or distributed release.
 
-[Approved lyric-video standard](docs/LYRIC-VIDEO-STANDARD.md) — 1080p only, consistent RUACH layout, custom motion backgrounds matching each song, and a static YouTube thumbnail after video approval.
+[Approved lyric-video standard](docs/LYRIC-VIDEO-STANDARD.md) â€” 1080p only, consistent RUACH layout, custom motion backgrounds matching each song, and a static YouTube thumbnail after video approval.
 
 After verified publication, follow the [post-publication cleanup and push standard](docs/YOUTUBE-RELEASE-STANDARD.md#post-publication-cleanup-and-push): remove disposable uploaded exports and unapproved work, retain reusable backgrounds/branding and the release archive, then commit and push approved changes.
+
+Repository moved to `louieje-g/ruach-music` on 2026-10-12. Both public MP3 releases were copied with matching SHA-256 digests. Existing YouTube descriptions still use the working previous-repository links. See [migration record](docs/REPOSITORY-MIGRATION-2026-10-12.json).
