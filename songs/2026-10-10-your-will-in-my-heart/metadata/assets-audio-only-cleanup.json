@@ -3,7 +3,7 @@
   "status": "completed",
   "asset_root": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets",
   "retained_file": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\audio\\releases\\your-will-in-my-heart-by-ruach.mp3",
-  "retained_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
+  "retained_sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171",
   "files": [
     {
       "path": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-your-will-in-my-heart\\assets\\artwork\\ruach-living-breath-crimson-1024.png",
@@ -179,19 +179,21 @@
   "reclaimed_bytes": null,
   "reason": "Manual deletion verified on disk; disk space recovery not measured.",
   "performed_by": "user manually",
-  "verified_date": "2026-10-12",
+  "verified_date": "2026-10-13",
   "removed_bytes": 491988836,
   "remaining_files": [
     "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3"
   ],
   "remaining_unreleased_files": [],
-  "verification": "Rechecked after user removed extra v002 MP3: exactly one released MP3 remains; SHA-256 unchanged.",
+  "verification": "Exactly one released MP3 remains. Embedded front cover matches approved v008 byte-for-byte; ID3v2.3 and compressed audio payload verified. Public download HTTP 200 and complete-file hash matches local master. Earlier cleanup hash retained as historical.",
   "current_mp3_update": {
     "record": "mp3-artwork-update-v008.json",
     "date": "2026-10-12",
     "sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171",
     "bytes": 9468136,
     "hosted_verified": true,
-    "only_released_mp3_remains": true
-  }
+    "only_released_mp3_remains": true,
+    "last_verified_date": "2026-10-13"
+  },
+  "historical_cleanup_retained_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc"
 }

@@ -40,3 +40,5 @@
 - Replaced embedded cover in the released MP3 with approved v008; verified unchanged compressed audio payload and other ID3 metadata.
 - Replaced the GitHub release asset at the existing YouTube download URL and downloaded it to verify its complete-file hash.
 - Assets folder still contains only the released MP3. Historical hashes remain in prior records; current verification is in metadata/mp3-artwork-update-v008.json.
+
+Rechecked 2026-10-13: approved v008 embedded cover, unchanged audio payload, byte-identical public download, correct public YouTube-description link, and assets containing only the released MP3 verified. See [audit](metadata/release-recheck-2026-10-13.json).

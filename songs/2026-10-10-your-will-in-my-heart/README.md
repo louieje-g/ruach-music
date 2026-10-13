@@ -31,3 +31,5 @@ Historical review limitations and approvals remain in the release metadata and c
 ## Album cover update, 2026-10-12
 
 Both the local signed master and hosted download use approved cover v008. Audio and other ID3 metadata are unchanged. See [verification record](metadata/mp3-artwork-update-v008.json) for previous/current hashes and hosted verification.
+
+Rechecked 2026-10-13: approved v008 embedded cover, unchanged audio payload, byte-identical public download, correct public YouTube-description link, and assets containing only the released MP3 verified. See [audit](metadata/release-recheck-2026-10-13.json).

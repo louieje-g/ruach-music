@@ -3,7 +3,9 @@
   "status": "superseded_by_manual_cleanup",
   "deleted_files": 0,
   "reason": "Automatic approval review rejected local deletion command: blocked by policy. No alternate deletion method attempted.",
-  "pending": "Remove uploaded v011 delivery MP4, duplicate v011 loop, superseded v001-v008/v010 projects and redundant v009 preview outputs.",
-  "retained": "Reusable v009 background and dependencies; branding; approved v011 source; approved thumbnail/audio; release records.",
-  "current_record": "metadata/assets-audio-only-cleanup.json"
+  "current_record": "metadata/assets-audio-only-cleanup.json",
+  "historical_pending": "Remove uploaded v011 delivery MP4, duplicate v011 loop, superseded v001-v008/v010 projects and redundant v009 preview outputs.",
+  "historical_retained": "Reusable v009 background and dependencies; branding; approved v011 source; approved thumbnail/audio; release records.",
+  "pending": [],
+  "last_verified_date": "2026-10-13"
 }

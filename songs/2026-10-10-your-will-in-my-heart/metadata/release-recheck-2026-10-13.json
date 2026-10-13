@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-13",
+  "artwork_revision": "v008",
+  "artwork_sha256": "912cae3d287af9452a0444c3abe6cb4377760635382447533453bda27dad7d99",
+  "mp3_sha256": "20182fab9784cf8fee398e3fae746e96a492cf02ef777680d1be6eaccc005171",
+  "id3_version": "2.3",
+  "embedded_cover_exact_match": true,
+  "compressed_audio_payload_matches_record": true,
+  "sole_asset": "assets/audio/releases/your-will-in-my-heart-by-ruach.mp3",
+  "download_url": "https://github.com/louieje-g/ruach-music/releases/download/your-will-in-my-heart-v001/your-will-in-my-heart-by-ruach.mp3",
+  "download_http_status": 200,
+  "download_matches_local": true,
+  "youtube_url": "https://www.youtube.com/watch?v=UTby4EziS00",
+  "public_description_link_verified": true,
+  "verification_method": "Public description inspected in in-app browser; download bytes verified using SHA-256."
+}

@@ -87,5 +87,7 @@
   "removed_files_verified": 18,
   "performed_by": "manual deletion outside agent tools",
   "retained_artwork_sha256": "912cae3d287af9452a0444c3abe6cb4377760635382447533453bda27dad7d99",
-  "reclaimed_disk_bytes": null
+  "reclaimed_disk_bytes": null,
+  "last_verified_date": "2026-10-13",
+  "verification": "All 18 inventoried removed paths remain absent; approved v008 hash unchanged."
 }
